@@ -6,7 +6,8 @@ body{
     width: 70%;
     height: 100vh;
     margin: 0 auto;
-    background-color: #0072b5;
+    background-color:#005180;
+    box-shadow:5px 5px 15px #0072b5;
 }
 
 .container ul{
